@@ -12,5 +12,6 @@ CSV file used here is adapted from Kaggle.com with my own modifications
 
 #### Cleaned columns are as follows:
 
-1. <b>Team :</b>Name of the EPL team in focus</br>
-1. <b>GGGrade :</b> Grant Group Grade (1 - 7)</br>  
+1. <b>Team :</b> Name of the EPL team in focus</br>
+2. <b>Date :</b> Date when the match is played</br>
+
