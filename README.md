@@ -3,7 +3,7 @@
 ## Overview
 This mini project aims to do some basic EDA of 23/24 season's statistics and hopes to use some ML regression methods to predict next season's outcome (although we all know that my beloved manchester city and pep guardiola will take its/his 5th PL in a row but lets still do this)
 
-![alt text](https://github.com/yesclaws/premier-league-23-24-insights/blob/main/PL_Trophy?raw=true)
+![alt text](https://github.com/yesclaws/premier-league-23-24-insights/blob/main/PL_Trophy.png?raw=true)
 
 ## Data Sources
 CSV file used here is adapted from Kaggle.com with my own modifications
