@@ -37,4 +37,5 @@ CSV file used here (PLmatches.csv) is adapted from Kaggle.com with my own modifi
 23. <b>PKatt :</b> Number of penalty kicks attempted</br>
 24. <b>Manager:</b> Name of the team's manager (some teams may have changed managers)</br>
 
+This is currently still a WIP 
 
